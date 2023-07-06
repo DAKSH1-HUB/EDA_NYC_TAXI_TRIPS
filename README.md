@@ -29,10 +29,16 @@ Pickup time</br>
 Trip duration of all trips</br>
 
 ![image](https://github.com/DAKSH1-HUB/EDA_NYC_TAXI_TRIPS/assets/81084807/3db2256f-efcc-4d1a-b367-7f36ce0ec812)
-![image](https://github.com/DAKSH1-HUB/EDA_NYC_TAXI_TRIPS/assets/81084807/108daa75-b9ae-4861-a6e2-f6a0fe957370)
+![image](https://github.com/DAKSH1-HUB/EDA_NYC_TAXI_TRIPS/assets/81084807/3b6276f2-16dd-492e-a565-efe929803185)
 
 ![image](https://github.com/DAKSH1-HUB/EDA_NYC_TAXI_TRIPS/assets/81084807/ee146648-d1cb-4520-bbd4-dedc99473586)
 ![image](https://github.com/DAKSH1-HUB/EDA_NYC_TAXI_TRIPS/assets/81084807/821612da-92cd-45ad-8ad3-adbc33eb3c64)
+
+Passenger Count
+![image](https://github.com/DAKSH1-HUB/EDA_NYC_TAXI_TRIPS/assets/81084807/3e2085f8-18ef-4c17-a439-6882b1b8aa09)
+![image](https://github.com/DAKSH1-HUB/EDA_NYC_TAXI_TRIPS/assets/81084807/25454eb8-22a2-47c8-9d89-51a3f5458479)
+
+
 
 
 
