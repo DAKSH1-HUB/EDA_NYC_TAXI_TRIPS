@@ -43,10 +43,15 @@ Data Loading -> Variable identification & type casting -> Date time Extraction -
 ![image](https://github.com/DAKSH1-HUB/EDA_NYC_TAXI_TRIPS/assets/81084807/483b371b-8104-45e7-9240-af05cf8eebf0)
 
 ## Vendors' Average trip duration (in seconds) 
-![image](https://github.com/DAKSH1-HUB/EDA_NYC_TAXI_TRIPS/assets/81084807/eec781c7-e208-4613-a967-952b24d05039)
+![image](https://github.com/DAKSH1-HUB/EDA_NYC_TAXI_TRIPS/assets/81084807/e926d185-8360-4443-9876-ec11b0ade5a4)
 
 ## Vendors' Average passenger count
-![image](https://github.com/DAKSH1-HUB/EDA_NYC_TAXI_TRIPS/assets/81084807/3b9652f4-6ad2-4e9a-a5c0-5ed9a1d2f675)
+![image](https://github.com/DAKSH1-HUB/EDA_NYC_TAXI_TRIPS/assets/81084807/352bbe6a-4f5d-4d24-aee9-cad0a8ba7b6a)
+
+## Trips having active internet network
+![image](https://github.com/DAKSH1-HUB/EDA_NYC_TAXI_TRIPS/assets/81084807/0f4ef319-f8aa-4d3f-a780-8c2c423b0826)
+
+
 
 
 
