@@ -17,7 +17,9 @@ dropoff_longitude - the longitude where the meter was disengaged</br>
 dropoff_latitude - the latitude where the meter was disengaged</br>
 store_and_fwd_flag - This flag indicates whether the trip record was held in vehicle memory before sending to the vendor because the vehicle did not have a connection to the server (Y=store and forward; N=not a store and forward trip)</br>
 trip_duration - (target) duration of the trip in seconds</br>
-
+</br>
+Dataset Link:- https://drive.google.com/file/d/13wB3rix52ilaosazN3h06B3JhVT8LyFx/view?usp=sharing
+</br>
 # METHODOLOGY
 Data Loading -> Variable identification & type casting -> Date time Extraction -> missing value identification -> outlier Detection -> KDE & Boxplot Univariate Analysis -> Bivariate Analysis </br>
 # INSIGHTS
